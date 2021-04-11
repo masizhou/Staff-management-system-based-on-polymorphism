@@ -4,6 +4,7 @@
 using namespace std;
 #include "worker.h"
 
+//普通员工类
 class Employee :public Worker
 {
 public:
